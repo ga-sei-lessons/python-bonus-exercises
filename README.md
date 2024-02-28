@@ -28,7 +28,6 @@ Open These notebooks in vscode or from the command-line with `jupyter notebook`
 * [big repo of progressive python challenges](https://github.com/ChillFish8/Python-Challenges)
 * [coidio python challenge labs](ttps://github.com/alicevillar/python-lab-challenges)
 * [edabit](https://edabit.com/challenges/python3) is an interactive site with many challenges to solve
-* []
 
 ## Sources
 
