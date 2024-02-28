@@ -9,6 +9,7 @@ Here is a list of the exercises:
 * [03-exercises.ipynb](./03-exercises.ipynb) -- scope study and debug actavity
 * [04-exercises.ipynb](./04-exercises.ipynb) -- containers, control flow and functions 
 * [05-exercises.ipynb](./05-exercises.ipynb) -- classes and inheritance
+* [06-exercises.ipynb](./06-solutions.ipynb) -- more classes and inheritance
 
 Each exercise has a corresponding solution file you may reference.
 
