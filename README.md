@@ -21,7 +21,14 @@ Some of these exerccises may require you to do some googling to figure out the s
 
 ## Getting started
 
-Open These notebooks in vscode or from the command-line with `jupyter notebook`
+You can download these files as a zip by clicking on the green "Code" button on the upper right of this repo and selecting `Download ZIP`. Once downloaded on your computer, unzip the directory and open it in vscode.
+
+Alternatively, you can clone these files down using git and the CLI:
+
+* cd in your terminal to the directory you want to house this repo
+* run `git clone git@git.generalassemb.ly:prudential-infrastructure-developer/python-bonus-exercises.git` to clone this repo down (this ssh cloning url can also be found when you click on the green "Code" button).
+* run `cd python-bonus-exercises` to change into the newly created repo.
+* run `code .` to open the repo in vscode
 
 ## More Challenges
 
