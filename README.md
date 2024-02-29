@@ -28,7 +28,7 @@ Alternatively, you can clone these files down using git and the CLI:
 * cd in your terminal to the directory you want to house this repo
 * run `git clone git@git.generalassemb.ly:prudential-infrastructure-developer/python-bonus-exercises.git` to clone this repo down (this ssh cloning url can also be found when you click on the green "Code" button).
 * run `cd python-bonus-exercises` to change into the newly created repo.
-* run `code .` to open the repo in vscode
+* run `code .` to open the repo in vscode or `jupyter notebook` to run it in the browser
 
 ## More Challenges
 
